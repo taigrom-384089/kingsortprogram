@@ -1,0 +1,11 @@
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\bin\Debug\netcoreapp2.2\KingSortProgram.deps.json
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\bin\Debug\netcoreapp2.2\KingSortProgram.runtimeconfig.json
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\bin\Debug\netcoreapp2.2\KingSortProgram.runtimeconfig.dev.json
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\bin\Debug\netcoreapp2.2\KingSortProgram.dll
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\bin\Debug\netcoreapp2.2\KingSortProgram.pdb
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\obj\Debug\netcoreapp2.2\KingSortProgram.csprojResolveAssemblyReference.cache
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\obj\Debug\netcoreapp2.2\KingSortProgram.csproj.CoreCompileInputs.cache
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\obj\Debug\netcoreapp2.2\KingSortProgram.AssemblyInfoInputs.cache
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\obj\Debug\netcoreapp2.2\KingSortProgram.AssemblyInfo.cs
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\obj\Debug\netcoreapp2.2\KingSortProgram.dll
+C:\Users\taigrom bueno\source\repos\KingSortProgram\KingSortProgram\obj\Debug\netcoreapp2.2\KingSortProgram.pdb
